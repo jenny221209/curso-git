@@ -31,6 +31,13 @@
     - Push de la rama nueva
 
         $ git push origin dev-layout
+
+
+    - Git branch --all ( Podriamos ver ramas creadas por otros equipos de trabajo)
+
+        $ git branch --all
+
+        $ git branch -a
         
     
     - Mostrar ramas con comentarios
