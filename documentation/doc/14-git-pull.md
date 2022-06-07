@@ -1,23 +1,19 @@
 
-### Git Pull origin ( Rama)
+### Git Pull Origin (Rama)
 
-    - Git pull trae las ultimas modificaciones de la rama que se indique desde el repositorio remoto al local
+    - Git pull trae las ultimas modificaciones de la rama que se le indique desde el 
+        repositorio remoto al local
 
     - Git pull unifica el git fetch y el git merge
 
         $ git pull origin main
 
-        & git pull origin dev-layout
-
 
 ### Git pull
 
-        - Git pull  nos trae solo las ramas que existan o que se hayan creado ( No trae modificaciones )
-
-            Ejemplo: 
-
-                $ git pull
-
+    - Se puede usar git pull solo, Sin la rama para traer todas las ramas nuevas que se han creado
+         (No se hace merge)
+    
     
 ### Fucionar 2 ramas main (Pasa cuando quiero fucionar un repositorio remoto con uno local)
 

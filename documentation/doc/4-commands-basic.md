@@ -81,7 +81,7 @@
     - Se pueden ver todo el historial de commit y modificaciones que se han hecho.
     
         $ git log 
-            -Para salir usar la letra q (quiet)
+            - Para salir usar la letra q (quiet)
 
     
     - O se pude usar git log --stat se pueden ver los cambios mas detalladamente
@@ -103,12 +103,25 @@
 
         $ git log --all --graph --oneline
 
-### Crear Alias
 
-    -Se puede crear alias en lineas de comandos que se usen con frecuencia y que sean muy largos o dificiles de aprender
 
-        $ alias arbol = "git log --all --graph --oneline"
-        
+#### Crear Alias
+
+    - Se pueden crer alias en lineas de comando que se usen con frecuencia y que sea muy largos
+        o dificiles de aprender
+
+        $ alias arbol = "git log --all --graph --oneline"      
+
+
+    
+#### Crear Alias
+
+    - Se pueden crer alias en lineas de comando que se usen con frecuencia y que sea muy largos
+        o dificiles de aprender
+
+        $ alias arbol = "git log --all --graph --oneline"       
+
+
     
 #### GitK
 
